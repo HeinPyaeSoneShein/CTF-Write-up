@@ -28,7 +28,7 @@ data                    [Status: 200, Size: 109, Words: 3, Lines: 1, Duration: 1
 :: Progress: [1907/1907] :: Job [1/1] :: 146 req/sec :: Duration: [0:00:09] :: Errors: 0 ::
 ```
 
-![image.png](attachment:65531e1a-4fa8-42c0-b056-d97d8e06f11d:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/VunLawyers%20(HackingHub)/Images/image%20(1).png?raw=true)
 
 ## Website functionality
 
