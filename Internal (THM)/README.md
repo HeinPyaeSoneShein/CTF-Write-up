@@ -40,9 +40,9 @@ PORT   STATE SERVICE REASON         VERSION
 
 ### Website functionality
 
-![image.png](attachment:baf73cfe-86ab-4e76-bca0-e5ac6fac16ac:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(3).png)
 
-![image.png](attachment:f5c94931-1172-4c18-ab17-887e017cc05a:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(4).png)
 
 - username admin is available
 - bruteforce password
@@ -64,7 +64,7 @@ PORT   STATE SERVICE REASON         VERSION
 
 ## Post Enumeration
 
-![image.png](attachment:f0193678-9c9e-4fb4-96b0-eb82890d7bfe:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(5).png)
 
 ```jsx
 william:arnold147
@@ -82,12 +82,12 @@ william@10.10.120.129's password:
 
 ### Reverse Shell
 
-![image.png](attachment:7c61f300-a0d5-47f2-8c4a-4aadaeb8a13c:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(6).png)
 
 - we upload php-revershell-php
 
 ```jsx
-http://internal.thm/blog/wp-content/themes/twentyseventeen/404.php
+http://internal.thm/blog/wp-content/themes/twentyseventeen/404.ph
 ```
 
 - tick this link
@@ -156,9 +156,9 @@ Internal Jenkins service is running on 172.17.0.2:8080
   => There is 1 zombie process.
 ```
 
-![image.png](attachment:4391f8bf-fa4e-43de-823c-e776b249c651:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(7).png)
 
-![image.png](attachment:474edba0-fbad-4902-b099-bb9199e9db34:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(8).png)
 
 - fuzz password
 
@@ -166,7 +166,7 @@ Internal Jenkins service is running on 172.17.0.2:8080
 admin : spongebob
 ```
 
-![image.png](attachment:27c92f97-b07a-4d24-a278-ce137aa4e7da:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/2671ded0991d8af2f269acb872174d3993c4bc47/Internal%20(THM)/Images/image%20(9).png)
 
 ### Jenkins Reverse Shell
 
