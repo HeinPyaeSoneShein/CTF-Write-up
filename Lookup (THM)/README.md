@@ -73,7 +73,7 @@ www                     [Status: 200, Size: 719, Words: 114, Lines: 27, Duration
 
 ### Website Functionality
 
-![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/image%20.png?raw=true)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/image.png?raw=true)
 
 ```bash
 POST /login.php HTTP/1.1
