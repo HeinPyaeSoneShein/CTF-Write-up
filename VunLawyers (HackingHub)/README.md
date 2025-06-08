@@ -32,7 +32,7 @@ data                    [Status: 200, Size: 109, Words: 3, Lines: 1, Duration: 1
 
 ## Website functionality
 
-![image.png](attachment:1afb9ffa-ae39-4552-86aa-64aa2b4f35fc:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/VunLawyers%20(HackingHub)/Images/image%20(3).png?raw=true)
 
 - X-Forwarded-For
 - SSRF
