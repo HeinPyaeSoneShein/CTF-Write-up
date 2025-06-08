@@ -57,11 +57,9 @@ Target: http://10.10.222.91/
 #Nothing interesting
 ```
 
-![image.png](attachment:cffaf3fe-3501-4a00-aa21-65d2a17265dc:image.png)
-
 ### Website Features/Notes
 
-![image.png](attachment:9a80b53a-90c7-4221-b021-7143feea0053:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Silver%20Platter%20(THM)/Images/image%20(1).png?raw=true)
 
 - To-Do list
     - Enumerate what Silverpeas is
@@ -72,7 +70,7 @@ Target: http://10.10.222.91/
 - Silverpeas instance
 - Accessible at  `/silverpeas`
 
-![image.png](attachment:4fce0ed5-0db4-4301-a8db-adc453e953a0:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Silver%20Platter%20(THM)/Images/image%20(3).png?raw=true)
 
 - Successful authentication
 
@@ -82,7 +80,7 @@ Target: http://10.10.222.91/
 
 Abusing IDOR in Message Feature to read the SSH password sent from administrator
 
-![image.png](attachment:3bf6cb3d-96bf-4a67-8a79-91772d682e94:849c9aa4-118a-45b1-9be0-0ca760af6e0b.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Silver%20Platter%20(THM)/Images/image%20(4).png?raw=true)
 
 # Post-Exploitation
 
@@ -91,8 +89,8 @@ tim@silver-platter:~$ id
 uid=1001(tim) gid=1001(tim) groups=1001(tim),4(adm)
 ```
 
-![image.png](attachment:cc38471f-cc1d-40ed-bf8c-3c5e387648c1:69844e29-f361-4e6c-9bfd-75407d96626a.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Silver%20Platter%20(THM)/Images/image%20(5).png?raw=true)
 
 # GOT ROOT FLAG!
 
-![image.png](attachment:8ae50400-8d23-4618-b4d5-3f1a3404144e:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Silver%20Platter%20(THM)/Images/image%20(6).png?raw=true)
