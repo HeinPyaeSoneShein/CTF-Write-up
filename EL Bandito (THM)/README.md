@@ -89,10 +89,10 @@ GET /mappings HTTP/1.1
     https://book.hacktricks.wiki/en/network-services-pentesting/pentesting-web/spring-actuators.html?highlight=spring%20boot%20actuators#exploiting-spring-boot-actuators
     ```
     
-    ![image.png](attachment:e3ba9b7a-50f3-4969-81d1-a46337196464:image.png)
+    ![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(1).png?raw=true)
     
 
-![image.png](attachment:522bcf52-b747-40ac-824d-dbd4341cf671:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(3).png?raw=true)
 
 ```bash
 /admin-creds
@@ -135,7 +135,7 @@ Accept-Language: en-US,en;q=0.9
 If-Modified-Since: Wed, 20 Mar 2024 23:10:13 GMT
 ```
 
-![image.png](attachment:3adccbeb-dc82-4014-8bf1-ebb9c2b14c05:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(4).png?raw=true)
 
 - remove content-length
 
@@ -208,9 +208,9 @@ THM{:::MY_DECLINATION:+62°_14\'_31.4'':::}
 
 # Flag 2
 
-![image.png](attachment:fd3d0718-0623-450b-907b-ec19c4cd6536:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(5).png?raw=true)
 
-![image.png](attachment:8fa8abf8-8206-44d9-94f3-10a16b7769cb:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(6).png?raw=true)
 
 ```bash
 // Function to fetch messages from the server
@@ -221,7 +221,7 @@ THM{:::MY_DECLINATION:+62°_14\'_31.4'':::}
 					throw new Error("Failed to fetch messages");
 ```
 
-![image.png](attachment:94f98075-de87-421f-a381-b979e298cd35:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(7).png?raw=true)
 
 ## Step1
 
@@ -246,7 +246,7 @@ GET /admin-flag HTTP/1.1
 Foo:
 ```
 
-![image.png](attachment:29ede18f-bb50-4194-9128-e2f9030721ea:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/EL%20Bandito%20(THM)/Images/image%20(8).png?raw=true)
 
 - keep sending to find 404 error.
 
