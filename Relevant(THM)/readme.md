@@ -89,7 +89,8 @@ Bob - !P@$$W0rD!123
 Bill - Juw4nnaM4n420696969!$$$
 ```
 
-![image]([image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/3f2c4eb2f420cf3dc3c24b324c83a916a4f5110d/Relevant(THM)/image%20(1).png))
+![image](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/3f2c4eb2f420cf3dc3c24b324c83a916a4f5110d/Relevant(THM)/image%20(1).png?raw=true)
+
 
 
 
