@@ -54,7 +54,7 @@ root@worldwap.thm's password:
 
 ### Website Features
 
-![image.png](attachment:17b3ebe3-5163-42b3-a130-7518bdc7b629:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(1).png?raw=true)
 
 ```bash
 http://login.worldwap.thm/
@@ -84,7 +84,7 @@ http://login.worldwap.thm/
 
 ```
 
-![image.png](attachment:eb3ca058-fa93-4c9b-881a-c10498c8541e:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(3).png?raw=true)
 
 - use javascript payload to collect cookie
 
@@ -96,15 +96,15 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
                                                         (PHPSESSID=n0rl3obdguracs47ajh032h276)
 ```
 
-![image.png](attachment:d63ec83f-12fb-4fe1-8428-60a3f27c7598:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(4).png?raw=true)
 
 ### 
 
-![image.png](attachment:689fc756-d8cd-496f-9d6f-09c9f0c0e865:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(5).png?raw=true)
 
-![image.png](attachment:e120960d-26bd-4db8-a164-02614912c65d:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(6).png?raw=true)
 
-![image.png](attachment:76f0b903-e39d-4b98-8c89-6b0dfdc91325:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(7).png?raw=true)
 
 - XXS
 
@@ -118,6 +118,6 @@ Serving HTTP on 0.0.0.0 port 8000 (http://0.0.0.0:8000/) ...
 
 - use this script  in the chat
 
-![image.png](attachment:8580e18b-2c69-49d0-9cea-97a45d13f21a:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(8).png?raw=true)
 
-![image.png](attachment:f9a5aec6-0e83-4a0e-a78d-e28210498065:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/What's%20your%20name%20(THM)/Images/image%20(9).png?raw=true)
