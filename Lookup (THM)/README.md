@@ -73,7 +73,7 @@ www                     [Status: 200, Size: 719, Words: 114, Lines: 27, Duration
 
 ### Website Functionality
 
-![image.png](attachment:76b76beb-04f1-4c92-93de-d4cc6355f290:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/image%20.png?raw=true)
 
 ```bash
 POST /login.php HTTP/1.1
@@ -130,7 +130,7 @@ jose : password123
 
 # Authenticated Acess
 
-![image.png](attachment:94c7606e-74ea-44e0-80fe-6153358531cd:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/image%20(1).png?raw=true)
 
 ```bash
 ┌──(kali㉿kali)-[~/tryhackme/lookup]
@@ -149,7 +149,7 @@ Shellcodes: No Results
 
 - This is vulnerable to Common injection
     
-    ![image.png](attachment:4af11654-faed-4b1c-99bc-8f9a4e51e4b9:image.png)
+    ![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/image%20(2).png?raw=true)
     
 
 ```bash
