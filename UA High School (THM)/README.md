@@ -94,7 +94,7 @@ Target: http://10.10.161.49/
 images  index.php  styles.css
 ```
 
-![image.png](attachment:c3e96e85-d85c-4fbe-b0d0-f37199c03a6e:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image%20(1).png?raw=true)
 
 ```bash
 http://10.10.161.49/assets/index.php/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=which%20nc
@@ -110,7 +110,7 @@ http://10.10.161.49/assets/index.php/p_/webdav/xmltools/minidom/xml/sax/saxutils
 
 ### Busybox
 
-![image.png](attachment:05c43e94-bc22-4c76-ac96-ca6f9b00eaec:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image%20(2).png?raw=true)
 
 ```bash
 http://10.10.161.49/assets/index.php/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=which%20busybox
@@ -172,7 +172,7 @@ oneforall.jpg: data
     oneforall.jpg: JPEG image data
     ```
     
-    ![image.png](attachment:7a19a938-3c47-41e5-8ac5-8450ba7d6cb1:image.png)
+    ![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image%20(3).png?raw=true)
     
 
 ```bash
@@ -202,11 +202,11 @@ deku:One?For?All_!!one1/A
 
 - login as ssh deku
 
-![image.png](attachment:f10ff865-e0a6-4c38-894c-5ac25bd18a56:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image%20(4).png?raw=true)
 
 ## Post Exploitation
 
-![image.png](attachment:92447651-0c26-4864-8d4b-33f949af07a4:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image%20(5).png?raw=true)
 
 ```bash
 ┌──(kali㉿kali)-[~/Downloads]
@@ -275,4 +275,4 @@ Welcome to Ubuntu 20.04.6 LTS (GNU/Linux 5.4.0-153-generic x86_64)
   System information as of Mon 19 May 2025 08:28:49 AM UTC
 ```
 
-![image.png](attachment:608dba04-8a1a-4388-a679-ee93bfe44c6d:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image%20(6).png?raw=true)
