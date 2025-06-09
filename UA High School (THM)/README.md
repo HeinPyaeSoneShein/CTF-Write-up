@@ -83,7 +83,7 @@ Target: http://10.10.161.49/
 [02:41:22] 200 -   40B  - /assets/index.php/p_/webdav/xmltools/minidom/xml/sax/saxutils/os/popen2?cmd=dir
 ```
 
-![image.png](attachment:82c0e0bf-2489-40bc-a7b8-6c512000153e:image.png)
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/UA%20High%20School%20(THM)/Images/image.png?raw=true)
 
 ```bash
 ┌──(kali㉿kali)-[~/tryhackme/UAhighschool]
