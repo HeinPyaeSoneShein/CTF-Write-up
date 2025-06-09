@@ -161,6 +161,7 @@ oneforall.jpg: data
 
 - cannot open data file.
 - It is not jpg, magic byte is different
+- Change to jpeg image byte
     
     ```bash
     ┌──(kali㉿kali)-[~/tryhackme/UAhighschool]
