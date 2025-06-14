@@ -220,7 +220,7 @@ Enter same passphrase again:
 Your identification has been saved in /home/kali/.ssh/id_rsa
 Your public key has been saved in /home/kali/.ssh/id_rsa.pub
 The key fingerprint is:
-SHA256:YjXRBd+f9GnF6b18EbT68EiJBJBLKJ8SQciUUwlWv6w kali@kali
+SHA256:YjXRBd+f=======LKJ8SQciUUwlWv6w kali@kali
 The key's randomart image is:
 +---[RSA 3072]----+
 |o+B=o ..+o.o.  . |
