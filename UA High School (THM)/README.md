@@ -248,7 +248,7 @@ id_rsa  id_rsa.pub  known_hosts  known_hosts.old
                                                                                                                                       
 ┌──(kali㉿kali)-[~/.ssh]
 └─$ cat id_rsa.pub  
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC0MDgbjSBQl7QA72CM62PB6vJb4j5xQs1acQ4vviCpabO/nWq+R3ZiARMNvPW/SoVqdeMCteZqlU6oRCIOsnl3CoKJpo24uvFSMtxipWuh8f7fXFrEwtXBl0NHvpLHapXh+LLGw5LmYICVp/mR3VSi09oiWLIQ6f9QvMU5NkEYGzZvWI2ahSkZxFuH/scrPfBoix3Nb69TfydJMHc1uudfMom1qKGZnYJM96IZst7A2+TkCAncAdBCQSS33Bu/HAu/FTte7lrJskvYqVIj1qRCu7hgh+feaJyljUtR0DzNB97DJzFwZzzloQ5WRhAJmV/7jjDaR/2jpkSZ7plziDPEuT8k6EBAoyItiQN7Bu2fuF9GLw5c+1P3/7xLo+i1TMr/RMo7NXKiI9aeGQFaPDxDjFb84ZZHW52tbi9S3dGyxrv/Xi/KyOc2IOVfN1lB/denSnqe6oGTin5FRY4UzUynB8Q0SIRurhgn0198Czo1QZcgnO1tom35pOYFh4Wag8U= kali@kali
+ssh-rsa AAAAB3NzaC1yc2EAAAAD========g8U= kali@kali
 ```
 
 ```bash
@@ -258,7 +258,7 @@ This is a way to report various problems
     Developed by                        
         The Technical Department of U.A.
 Enter your feedback:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC0MDgbjSBQl7QA72CM62PB6vJb4j5xQs1acQ4vviCpabO/nWq+R3ZiARMNvPW/SoVqdeMCteZqlU6oRCIOsnl3CoKJpo24uvFSMtxipWuh8f7fXFrEwtXBl0NHvpLHapXh+LLGw5LmYICVp/mR3VSi09oiWLIQ6f9QvMU5NkEYGzZvWI2ahSkZxFuH/scrPfBoix3Nb69TfydJMHc1uudfMom1qKGZnYJM96IZst7A2+TkCAncAdBCQSS33Bu/HAu/FTte7lrJskvYqVIj1qRCu7hgh+feaJyljUtR0DzNB97DJzFwZzzloQ5WRhAJmV/7jjDaR/2jpkSZ7plziDPEuT8k6EBAoyItiQN7Bu2fuF9GLw5c+1P3/7xLo+i1TMr/RMo7NXKiI9aeGQFaPDxDjFb84ZZHW52tbi9S3dGyxrv/Xi/KyOc2IOVfN1lB/denSnqe6oGTin5FRY4UzUynB8Q0SIRurhgn0198Czo1QZcgnO1tom35pOYFh4Wag8U= kali@kali > /root/.ssh/authorized_keys
+ssh-rsa AAAAB========3N8U= kali@kali > /root/.ssh/authorized_keys
 It is This:
 Feedback successfully saved.
 ```
