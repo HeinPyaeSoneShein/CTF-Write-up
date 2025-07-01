@@ -1,8 +1,6 @@
 Lookup (Tryhackme)
 
-<img src="https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/618b3fa52f0acc0061fb0172-1732205261742.png?raw=true" alt="Lookup Screenshot" width="500"/>
-
-
+<img src="https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Lookup%20(THM)/Images/618b3fa52f0acc0061fb0172-1732205261742.png?raw=true" alt="Lookup Screenshot" width="150"/>
 #Test your enumeration skills on this boot-to-root machine#
 
 # Enumeration
