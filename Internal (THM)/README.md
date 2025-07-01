@@ -1,4 +1,5 @@
-![Internal Screenshot](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Internal%20(THM)/Images/222b3e855f88a482c1267748f76f90e0.jpeg?raw=true)
+<img src="https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Internal%20(THM)/Images/222b3e855f88a482c1267748f76f90e0.jpeg?raw=true" alt="Internal Screenshot" width="500"/>
+
 
 Internal (Tryhackme)
 #Penetration Testing Challenge#
