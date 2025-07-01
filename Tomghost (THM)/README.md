@@ -43,7 +43,7 @@ Shellcodes: No Results
 
 - we found ajp metasploit
 
-https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(1).png
+![image.png](https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(1).png)
 
 - use msfconsole and search ajp
 - use 0
