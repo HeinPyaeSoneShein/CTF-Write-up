@@ -1,7 +1,6 @@
 Relavant (Tryhackme)
 
-![Room Icon](https://tryhackme-images.s3.amazonaws.com/room-icons/10524728b2b462e8d164efe4e67ed087.jpeg)
-
+<img src="https://github.com/HeinPyaeSoneShein/CTF-Write-up/blob/main/Relevant(THM)/10524728b2b462e8d164efe4e67ed087.jpeg?raw=true" alt="TryHackMe Room Icon" width="150"/>
 Penetration Testing Challenge
 
 # Enumeration
