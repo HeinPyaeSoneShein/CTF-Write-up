@@ -1,6 +1,6 @@
 Relavant (Tryhackme)
 
-<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/10524728b2b462e8d164efe4e67ed087.jpeg" alt="TryHackMe Room Icon" width="150"/>
+![Room Icon](https://tryhackme-images.s3.amazonaws.com/room-icons/10524728b2b462e8d164efe4e67ed087.jpeg)
 
 Penetration Testing Challenge
 
