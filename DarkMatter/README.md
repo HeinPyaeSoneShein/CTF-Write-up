@@ -1,6 +1,6 @@
 DarkMatter
 
-![Room Icon](https://tryhackme-images.s3.amazonaws.com/room-icons/62ff64c3c859dc0042b2b9f6-1749737588995)
+<img src="https://tryhackme-images.s3.amazonaws.com/room-icons/62ff64c3c859dc0042b2b9f6-1749737588995" alt="DarkMatter Room Icon" width="150">
 
 Practice how to exploit a weak RSA implementation to recover the private key and decrypt a ransomware-encrypted files.
 
